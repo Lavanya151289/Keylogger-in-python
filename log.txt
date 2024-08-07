@@ -1,4 +1,4 @@
-bb
+[*Output of random keystokes*]
 
 no
 error\x03\x16
