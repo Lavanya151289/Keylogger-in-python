@@ -1,0 +1,25 @@
+Public IP Address: 223.238.210.134Processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: DESKTOP-HLG5UV0
+Private IP Address: 192.168.198.249
+Public IP Address: 223.238.210.134Processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: DESKTOP-HLG5UV0
+Private IP Address: 192.168.198.249
+Public IP Address: 223.238.210.134Processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: DESKTOP-HLG5UV0
+Private IP Address: 192.168.198.249
+Public IP Address: 42.108.64.39Processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: DESKTOP-HLG5UV0
+Private IP Address: 192.168.198.249
+Public IP Address: 42.111.122.36Processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: DESKTOP-HLG5UV0
+Private IP Address: 192.168.7.249
